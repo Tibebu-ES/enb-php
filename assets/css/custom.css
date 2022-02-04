@@ -1,0 +1,60 @@
+/* this is my custom CSS */
+
+header {
+	margin-bottom: 2em;
+}
+footer {
+
+	padding: 2em 4em;
+	
+	margin-top: 2em;
+	border-top: 1px solid #0000FF;
+	color: #0000FF;
+	
+	background-color: #2e383c;
+}
+
+body{
+	padding-top: 70px;
+}
+
+
+/* new css */
+
+
+#statusLabel{
+	color: darkred;
+}
+#noticeDetailInfo{
+	color: darkred;
+}
+#userDetailInfo{
+	color: darkred;
+}
+
+#imagePreviewDiv {
+	overflow: auto;
+	white-space: nowrap;
+
+}
+.panel-success{
+	border: 1px solid #336600;
+}
+
+.panel-success .panel-body a{
+	color: #336600;
+	font-weight: bold;
+}
+.panel-success .list-group a{
+	border: 1px solid  #336600;
+}
+.panel-success .list-group a:hover{
+	color:  #FFFFFF;
+	background-color: #FF33FF;
+}
+a.list-group-item.active{
+	color: #FFFFFF;
+	background-color: #336600;
+
+}
+
